@@ -1,5 +1,5 @@
-Nombre:	Miguel Angel Monrroy Guzmán
-Carné: 	2010-20782
+Nombre:	Miguel Angel Monrroy Guzman
+Carne: 	2010-20782
 
 Introduccion a la Programacion y Computacion 1
 Seccion A
